@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/btn_open_file"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/navbar_container_height"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@drawable/button_background"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:layout_width="@dimen/btn_width"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/des_open"
+                android:src="@drawable/ic_action_collection" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Open document "/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_new_document"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/navbar_container_height"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@drawable/button_background"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:layout_width="@dimen/btn_width"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_action_new_attachment" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Create new document"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btn_save_file"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/navbar_container_height"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:background="@drawable/button_background"
+            android:layout_margin="10dp">
+
+            <ImageView
+                android:layout_width="@dimen/btn_width"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_action_save" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Save document "/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <pl.openrnd.multilevellistview.MultiLevelListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:alwaysExtended="false"
+        app:nestType="multiple" />
+
+</LinearLayout>

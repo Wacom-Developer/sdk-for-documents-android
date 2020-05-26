@@ -1,0 +1,15 @@
+<resources>
+    <item name="navbar_container_height" format="dimension" type="dimen">40dp</item>
+    <item name="btn_width" format="dimension" type="dimen">44dp</item>
+
+    <dimen name="font_default">16dp</dimen>
+    <dimen name="font_small">12dp</dimen>
+    <dimen name="offset_default">3dp</dimen>
+    <dimen name="padding_default">12dp</dimen>
+
+    <dimen name="data_item_row_height">45dp</dimen>
+    <dimen name="data_item_row_padding">5dp</dimen>
+
+    <dimen name="level_beam_line_width">6dp</dimen>
+    <dimen name="level_beam_line_offset">2dp</dimen>
+</resources>

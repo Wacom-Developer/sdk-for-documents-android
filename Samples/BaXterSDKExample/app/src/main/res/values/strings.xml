@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaXter SDK Example</string>
+
+    <string name="des_background">Image background</string>
+    <string name="des_logo">Wacom logo</string>
+    <string name="des_open">Open</string>
+</resources>
