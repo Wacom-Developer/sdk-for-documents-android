@@ -1,4 +1,4 @@
-# SDK for documents - Android
+# Wacom Ink SDK for documents - Android
 
 ## Version 2.0.0
 

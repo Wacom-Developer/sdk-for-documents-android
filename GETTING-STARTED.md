@@ -4,13 +4,13 @@
 
 The *Wacom Ink SDK for documents* is supplied as a .aar library for Android Studio, and requires a device with Android 4.3 or above.
 
-## Download the SDK for documents
+## Download the Wacom Ink SDK for documents
 
 Download the SDK from https://developer.wacom.com/developer-dashboard
 
 * Login using your Wacom ID
 * Select **Downloads for documents**
-* Download **Documents SDK for Android**
+* Download **Wacom Ink SDK for documents for Android**
 * Accept the End User License Agreement to use the SDK
 
 The downloaded Zip file contains the SDK with documentation.
