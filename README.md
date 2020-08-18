@@ -12,7 +12,7 @@ The SDK provides an API to manipulate the extended metadata saved in a PDF docum
 > The source of the name Baxter is ‘Barbera Extensible Translator’.
 
 The SDKs can be used universally to extend the contents of PDF documents, as described in:
-[Wacom Ink Document Metadata Format](http://will-docs.westeurope.cloudapp.azure.com/sdk-for-documents/docs/idml-format)
+[Wacom Ink Document Metadata Format](http://developer-docs.wacom.com/sdk-for-documents/docs/idml-format)
 
 
 A full description of the API is included in the SDK.
@@ -29,14 +29,14 @@ Samples are included to help get started with the SDK.
 For further samples check Wacom's Developer additional samples, see [https://github.com/Wacom-Developer](https://github.com/Wacom-Developer)
 
 ## Documentation
-For further details on using the SDK see [Wacom Ink SDK for documents documentation](http://will-docs.westeurope.cloudapp.azure.com/sdk-for-documents/) 
+For further details on using the SDK see [Wacom Ink SDK for documents documentation](http://developer-docs.wacom.com/sdk-for-documents/) 
 
 The API Reference is available directly in the downloaded SDK.
 
 ## Support
-If you experience issues with the technology components, please see related [FAQs](http://will-docs.westeurope.cloudapp.azure.com/faqs)
+If you experience issues with the technology components, please see related [FAQs](http://developer-docs.wacom.com/faqs)
 
-For further support file a ticket in our **Developer Support Portal** described here: [Request Support](http://will-docs.westeurope.cloudapp.azure.com/faqs/docs/q-support/support)
+For further support file a ticket in our **Developer Support Portal** described here: [Request Support](http://developer-docs.wacom.com/faqs/docs/q-support/support)
 
 ## Developer Community 
 Join our developer community:
