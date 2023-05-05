@@ -9,7 +9,7 @@ The SDK provides an API to manipulate the extended metadata saved in a PDF docum
 
 > Note that the SDK uses the name BaXter extensively. This is for historic reasons:
 > The Baxter SDKs were initially created to support CLB-Create and CLB-Paper applications developed for the Wacom Clipboard PHU-111, codenamed Barbera.
-> The source of the name Baxter is ‘Barbera Extensible Translator’.
+> The source of the name Baxter is ï¿½Barbera Extensible Translatorï¿½.
 
 The SDKs can be used universally to extend the contents of PDF documents, as described in:
 [Wacom Ink Document Metadata Format](http://developer-docs.wacom.com/sdk-for-documents/docs/idml-format)
@@ -34,9 +34,9 @@ For further details on using the SDK see [Wacom Ink SDK for documents documentat
 The API Reference is available directly in the downloaded SDK.
 
 ## Support
-If you experience issues with the technology components, please see related [FAQs](http://developer-docs.wacom.com/faqs)
+If you experience issues with the technology components, please see the related [FAQs](https://developer-support.wacom.com/hc/en-us)
 
-For further support file a ticket in our **Developer Support Portal** described here: [Request Support](http://developer-docs.wacom.com/faqs/docs/q-support/support)
+For further support file a ticket in our **Developer Support Portal** described here: [Request Support](https://developer-support.wacom.com/hc/en-us/requests/new)
 
 ## Developer Community 
 Join our developer community:
