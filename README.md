@@ -1,5 +1,8 @@
 # Wacom Ink SDK for documents - Android
 
+> **Important Note:**
+> This series of Wacom products is now discontinued and support for them is no longer offered.
+
 ## Introduction
 
 ---
